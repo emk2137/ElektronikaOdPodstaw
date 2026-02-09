@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"pl.gda.pg.elektronikaodpodstaw.config"},{"l":"pl.gda.pg.elektronikaodpodstaw.levels"},{"l":"pl.gda.pg.elektronikaodpodstaw.main"},{"l":"pl.gda.pg.elektronikaodpodstaw.simulation"},{"l":"pl.gda.pg.elektronikaodpodstaw.ui"}];updateSearchResults();

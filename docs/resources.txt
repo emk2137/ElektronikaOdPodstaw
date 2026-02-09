@@ -1,0 +1,92 @@
+Resources of the project:
+
+libraries:
+JLateXMath - https://repo1.maven.org/maven2/org/scilab/forge/jlatexmath/1.0.7/jlatexmath-1.0.7.jar
+JSpice - https://repo.maven.apache.org/maven2/org/knowm/jspice/0.0.1/jspice-0.0.1.jar
+
+backgrounds:
+background1.jpg - https://www.pexels.com/nl-nl/foto/groen-moederbord-50711/
+background2.jpg - https://www.pexels.com/nl-nl/foto/groene-printplaat-459411/
+background3.jpg - https://www.pexels.com/nl-nl/foto/groene-computer-printplaat-159220/
+
+icons:
+ammeter.png - https://www.flaticon.com/free-icon/ammeter_114769?term=ammeter&page=1&position=1&origin=search&related_id=114769
+back.png - https://www.flaticon.com/free-icon/left-arrow_3502496?term=back&page=1&position=6&origin=style&related_id=3502496
+C.png - https://www.flaticon.com/free-icon/capacitor_3512171?term=capacitor&page=1&position=1&origin=style&related_id=3512171
+clear.png - https://www.flaticon.com/free-icon/bin_484662?term=bin&page=1&position=3&origin=search&related_id=484662
+delete.png - https://www.flaticon.com/free-icon/x-mark_1617543?term=delete&page=1&position=28&origin=search&related_id=1617543
+help.png - https://www.flaticon.com/free-icon/question_3502516?term=help&page=1&position=1&origin=style&related_id=3502516
+I.png - https://www.flaticon.com/free-icon/circuit_15224943?term=current+source&page=1&position=1&origin=search&related_id=15224943
+L.png - https://www.flaticon.com/free-icon/electrical_14826826?related_id=14826826
+quest.png - https://www.flaticon.com/free-icon/quest_5847014?term=quest&page=1&position=5&origin=search&related_id=5847014
+R_ANSI.png - https://www.flaticon.com/free-icon/resistor_9054099?term=resistor&page=1&position=8&origin=search&related_id=9054099
+R_IEC.png - https://www.flaticon.com/free-icon/resistor_3512458?term=resistor&page=1&position=2&origin=style&related_id=3512458
+redo.png - https://www.flaticon.com/free-icon/forward_3502518?term=redo&page=1&position=2&origin=style&related_id=3502518
+simulate.png - https://www.flaticon.com/free-icon/play-arrow_5035005?term=play&page=1&position=1&origin=style&related_id=5035005
+undo.png - https://www.flaticon.com/free-icon/undo_3502539?term=undo&page=1&position=1&origin=style&related_id=3502539
+V.png - https://www.flaticon.com/free-icon/battery_11666829?term=battery+circuit&page=1&position=6&origin=search&related_id=11666829
+voltmeter.png - https://www.flaticon.com/free-icon/voltmeter_114768?term=voltmeter&page=1&position=2&origin=search&related_id=114768
+wire.png - https://www.flaticon.com/free-icon/wire_5890617?term=wire+symbol&page=1&position=18&origin=search&related_id=5890617
+
+level2:
+bat.png - photo from a high school textbook Ciekawi świata. Fizyka 2. Podręcznik. Część 1. Zakres rozszerzony. Szkoły ponadgimnazjalne
+cir.png - photo from a high school textbook Ciekawi świata. Fizyka 2. Podręcznik. Część 1. Zakres rozszerzony. Szkoły ponadgimnazjalne
+cur.png - https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Types_of_current-pl.svg/2560px-Types_of_current-pl.svg.png
+E.png - photo from a high school textbook Ciekawi świata. Fizyka 2. Podręcznik. Część 1. Zakres rozszerzony. Szkoły ponadgimnazjalne
+F.png - photo from a high school textbook Ciekawi świata. Fizyka 2. Podręcznik. Część 1. Zakres rozszerzony. Szkoły ponadgimnazjalne
+pot.png - https://youtu.be/bHIhgxav9LY?t=423
+rho.png - photo from a high school textbook Ciekawi świata. Fizyka 2. Podręcznik. Część 1. Zakres rozszerzony. Szkoły ponadgimnazjalne
+V.png - photo from a high school textbook Ciekawi świata. Fizyka 2. Podręcznik. Część 1. Zakres rozszerzony. Szkoły ponadgimnazjalne
+Vg.png - photo from a high school textbook Ciekawi świata. Fizyka 2. Podręcznik. Część 1. Zakres rozszerzony. Szkoły ponadgimnazjalne
+
+level3:
+R.png - own drawing
+Rrho.png - own drawing
+Rs.png - own drawing
+UIR.png - own drawing
+
+level4:
+pSI - own drawing
+uSI - own drawing
+
+level5:
+am.png - own drawing
+ba.png - own drawing
+fel.png - photo from a high school textbook Ciekawi świata. Fizyka 2. Podręcznik. Część 1. Zakres rozszerzony. Szkoły ponadgimnazjalne
+fl.png - photo from a high school textbook Ciekawi świata. Fizyka 2. Podręcznik. Część 1. Zakres rozszerzony. Szkoły ponadgimnazjalne
+m.png - photo from a high school textbook Ciekawi świata. Fizyka 2. Podręcznik. Część 1. Zakres rozszerzony. Szkoły ponadgimnazjalne
+mag.png - photo from a high school textbook Ciekawi świata. Fizyka 2. Podręcznik. Część 1. Zakres rozszerzony. Szkoły ponadgimnazjalne
+magroz.png - photo from a high school textbook Ciekawi świata. Fizyka 2. Podręcznik. Część 1. Zakres rozszerzony. Szkoły ponadgimnazjalne
+magz.png - photo from a high school textbook Ciekawi świata. Fizyka 2. Podręcznik. Część 1. Zakres rozszerzony. Szkoły ponadgimnazjalne
+mult.png - https://upload.wikimedia.org/wikipedia/commons/0/0b/2017_Cyfrowy_miernik_uniwersalny.jpg
+orst.png - photo from a high school textbook Ciekawi świata. Fizyka 2. Podręcznik. Część 1. Zakres rozszerzony. Szkoły ponadgimnazjalne
+rpd.png - photo from a high school textbook Ciekawi świata. Fizyka 2. Podręcznik. Część 1. Zakres rozszerzony. Szkoły ponadgimnazjalne
+sv.png - own drawing
+vam.png - photo from a high school textbook Ciekawi świata. Fizyka 2. Podręcznik. Część 1. Zakres rozszerzony. Szkoły ponadgimnazjalne
+vm.png - own drawing
+
+level6:
+1pk.png - https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Pierwsze_prawo_Kirchhoffa.svg/2294px-Pierwsze_prawo_Kirchhoffa.svg.png
+2pk.png - own drawing
+
+level7:
+rp.png - photo from a high school textbook Ciekawi świata. Fizyka 2. Podręcznik. Część 1. Zakres rozszerzony. Szkoły ponadgimnazjalne
+szp.png - photo from a high school textbook Ciekawi świata. Fizyka 2. Podręcznik. Część 1. Zakres rozszerzony. Szkoły ponadgimnazjalne
+
+level8:
+epr.png - https://youtu.be/bHIhgxav9LY?t=481
+
+level9:
+EJRG.png - own drawing
+
+level10:
+dn.png - https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/DielnikNapiecia.svg/2560px-DielnikNapiecia.svg.png
+dp.png - https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/DielnikPradu.svg/2048px-DielnikPradu.svg.png
+
+level11:
+c.png - own drawing
+cp.png - photo from a high school textbook Ciekawi świata. Fizyka 2. Podręcznik. Część 1. Zakres rozszerzony. Szkoły ponadgimnazjalne
+cs.png - photo from a high school textbook Ciekawi świata. Fizyka 2. Podręcznik. Część 1. Zakres rozszerzony. Szkoły ponadgimnazjalne
+il.png - photo from a high school textbook Ciekawi świata. Fizyka 2. Podręcznik. Część 1. Zakres rozszerzony. Szkoły ponadgimnazjalne
+l.png - photo from a high school textbook Ciekawi świata. Fizyka 2. Podręcznik. Część 1. Zakres rozszerzony. Szkoły ponadgimnazjalne
+ls.png - https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Cewka.svg/2560px-Cewka.svg.png
